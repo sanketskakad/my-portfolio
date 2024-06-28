@@ -49,7 +49,7 @@ $(document).ready(function () {
     const subject = `Contact from ${name}`;
     const body = `Name: ${name}\nEmail: ${email}\n\nMessage:\n${message}`;
 
-    const mailtoLink = `mailto:sanketskakad@gmail.com?subject=${encodeURIComponent(
+    const mailtoLink = `mailto:sanket.kakad@gmail.com?subject=${encodeURIComponent(
       subject
     )}&body=${encodeURIComponent(body)}`;
     window.location.href = mailtoLink;
