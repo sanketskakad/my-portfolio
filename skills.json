@@ -1,5 +1,13 @@
 [
   {
+    "name": "Java",
+    "icon": "https://w7.pngwing.com/pngs/405/878/png-transparent-java-logo-java-runtime-environment-computer-icons-java-platform-standard-edition-java-miscellaneous-text-logo-thumbnail.png"
+  },
+  {
+    "name": "Spring",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8i4zPog-0j0JR_yZglxPhTPZXxN2iMTQ3Dw&s"
+  },
+  {
     "name": "Angular",
     "icon": "https://cdn3.iconfinder.com/data/icons/logos-3/250/angular-512.png"
   },
