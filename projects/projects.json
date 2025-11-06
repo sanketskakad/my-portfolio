@@ -1,5 +1,15 @@
 [
   {
+    "name": "React Dashboard",
+    "desc": "",
+    "image": "Dashboard",
+    "category": "all",
+    "links": {
+      "view": "https://sanket-react-dashboard.netlify.app/",
+      "code": "https://gitlab.com/sanketskakad/react-dashboard"
+    }
+  },
+  {
     "name": "Pizza Shop",
     "desc": "",
     "image": "PizzaShop",
