@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Pizza Shop",
+    "desc": "",
+    "image": "PizzaShop",
+    "category": "all",
+    "links": {
+      "view": "https://main--sanket-kakad-pizza-shop.netlify.app/",
+      "code": "https://github.com/sanketskakad/pizza-restaurant"
+    }
+  }
+]
