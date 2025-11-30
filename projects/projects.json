@@ -1,0 +1,32 @@
+[
+  {
+    "name": "React Dashboard",
+    "desc": "",
+    "image": "Dashboard",
+    "category": "all",
+    "links": {
+      "view": "https://sanket-react-dashboard.netlify.app/",
+      "code": "https://gitlab.com/sanketskakad/react-dashboard"
+    }
+  },
+  {
+    "name": "Pizza Shop",
+    "desc": "",
+    "image": "PizzaShop",
+    "category": "all",
+    "links": {
+      "view": "https://main--sanket-kakad-pizza-shop.netlify.app/",
+      "code": "https://github.com/sanketskakad/pizza-restaurant"
+    }
+  },
+  {
+    "name": "Pizza Shop",
+    "desc": "",
+    "image": "PizzaMobile",
+    "category": "all",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  }
+]
